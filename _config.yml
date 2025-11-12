@@ -1,13 +1,4 @@
-# _config.yml
 title: ecx的博客
-author: ecx
-description: 攻防无绝对，技术无黑白
-
-# 使用官方默认主题（GitHub Pages 内置）
 theme: minima
-
-# 可选：设置 baseurl（如果你的仓库名不是 <user>.github.io）
-# 例如仓库名是 my-blog，则 baseurl: /my-blog
-# 如果你不确定，先留空或按下面填写
-baseurl: "/blog"   # ← 改成你的仓库名！
-url: "https://ecxwxz.github.io"
+baseurl: "/blog"         
+url: "https://ecxwxz.github.io"  
