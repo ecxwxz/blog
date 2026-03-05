@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
-languageCode = 'en'
-title = 'My New Hugo Site'
+baseURL = 'https://blog.ecxwxz.top/'
+languageCode = 'zh-cn'
+title = '欢迎来到ecx的博客喵~'
 theme = 'hugo-theme-reimu'
 
 defaultContentLanguage = 'en'

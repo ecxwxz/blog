@@ -26,9 +26,9 @@ monthFormat: "2006-01"
 dateFormat: "2006-01-02"
 timeFormat: "2006-01-02 15:04:05"
 
-author: D-Sketon
-email: xxx@example.com
-description: "少女祈祷中..."
+author: ecx
+email: mr.ecxwxz@gmail.com
+description: "技术无黑白，攻防无绝对"
 # subtitle: "少女祈祷中..."
 subtitle:
   typing:
@@ -102,10 +102,10 @@ copyright:
 #   All website licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a></div>
 
 footer:
-  since: 2020 # 2020-current year
-  powered: true
-  count: true
-  busuanzi: true
+  since: 2026 # 2026-current year
+  powered: false
+  count: false
+  busuanzi: false
   icon:
     url: "../images/taichi.png" # this path is relative to the css/main.css, so it needs to go up one level to reach the images folder
     rotate: true
@@ -114,7 +114,7 @@ footer:
 # Sidebar
 # sidebar: right # deprecated, use sidebar.position instead
 sidebar:
-  position: right
+  position: left
   menu: true  # whether to show the sidebar menu button, ignored on mobile devices
   article:
     show_common: true # whether to show common sidebar, ignored on mobile devices
@@ -409,12 +409,12 @@ gitalk:
 
 # https://giscus.app/zh-CN
 giscus:
-  enable: false
-  repo:
-  repoId:
-  category:
-  categoryId:
-  mapping: mapping
+  enable: true
+  repo: "ecxwxz/blog"
+  repoId: "R_kgDORfPmtQ"
+  category: "Announcements"
+  categoryId: "DIC_kwDORfPmtc4C3v8b"
+  mapping: pathname
   strict: 0
   reactionsEnabled: 1
   emitMetadata: 0
@@ -615,7 +615,7 @@ injector:
 
 # Experimental, may have a lot of bugs, open with caution!
 pjax:
-  enable: false
+  enable: true
 
 # Experimental
 # https://github.com/GoogleChromeLabs/quicklink
@@ -651,27 +651,27 @@ pace:
 # Experimental
 # Please turn on pjax to use this feature
 player:
-  disable_on_mobile: false
+  disable_on_mobile: true
   position: before_sidebar # before_sidebar | after_sidebar | after_widget
   # if you enable meting, you must enable aplayer first
   aplayer:
     # https://github.com/DIYgod/APlayer
-    enable: false
+    enable: true
     options:
       audio: []
       fixed: true
-      autoplay:
-      loop:
-      order:
-      preload:
-      volume:
-      mutex:
-      listFolded:
-      lrcType:
+      autoplay: true
+      loop: all
+      order: random
+      preload: auto
+      volume: 1
+      mutex: true
+      listFolded: false
+      lrcType: 3
   meting:
     # https://github.com/metowolf/MetingJS
     # if you want to use meting, please enable aplayer first
-    enable: false
+    enable: true
     meting_api: # custom api
     options:
       id: 2265921590
