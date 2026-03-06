@@ -16,7 +16,7 @@ lastmod: 2026-03-06T12:30:52+08:00
 
 #### windows
 
-[Hugo]: https://github.com/gohugoio/hugo/releases/download/v0.156.0/hugo_extended_0.156.0_windows-amd64.zip
+[Hugo]https://github.com/gohugoio/hugo/releases/download/v0.156.0/hugo_extended_0.156.0_windows-amd64.zip
 
 下载后解压，记住文件路径，Win+r输入sysdm.cpl回车后依次点击，高级，环境变量，系统变量的path，
 
@@ -30,7 +30,7 @@ lastmod: 2026-03-06T12:30:52+08:00
 hugo v0.156.0-9d914726dee87b0e8e3d7890d660221bde372eec+extended windows/amd64 BuildDate=2026-02-18T16:39:55Z VendorInfo=gohugoio
 ```
 
-[Git]: https://github.com/git-for-windows/git/releases/download/v2.53.0.windows.1/Git-2.53.0-64-bit.exe
+[Git]https://github.com/git-for-windows/git/releases/download/v2.53.0.windows.1/Git-2.53.0-64-bit.exe
 
 双击运行安装即可
 
