@@ -4,18 +4,5 @@
 
 Template for [hugo-theme-reimu](https://github.com/D-Sketon/hugo-theme-reimu)
 
-## Usage
-
-```bash
-git clone https://github.com/D-Sketon/hugo-reimu-template --recursive
-cd hugo-reimu-template
-hugo serve
-```
-
-## How to use
-
-- Change your site configuration in `hugo.toml`
-- Change your theme configuration in `config/_default/params.yml`
-- Change your post cover in `data/covers.yml`
-- Change your avatar in `static/avatar/avatar.webp`
-- Add your posts in `content/post`
+## 是仓库喵
+本仓库用于构建保存博客喵~
