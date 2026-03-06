@@ -1,7 +1,7 @@
 ---
 title: 基于hugo的博客搭建(github+cloudflare)
 description: 本文将教你0成本搭建一个博客,白嫖党狂喜
-
+cover: https://img.cdn1.vip/i/69aa6a122deb1_1772775954.jpg
 date: 2026-03-06T00:11:52+08:00
 lastmod: 2026-03-06T12:30:52+08:00
 ---
