@@ -3,7 +3,7 @@ languageCode = 'zh-cn'
 title = '欢迎来到ecx的博客喵~'
 theme = 'hugo-theme-reimu'
 
-defaultContentLanguage = 'en'
+defaultContentLanguage = 'zh-CN'
 [languages]
 [languages.en]
 languageName = 'English'
