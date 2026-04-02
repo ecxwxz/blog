@@ -1,6 +1,6 @@
 ---
-title: 万物伊始
-# description: 博客的模板
+title: hgame2026 writeup
+description: web方向week1 wp
 
 date: 2026-03-18T12:12:52+08:00
 lastmod: 2026-03-18T12:15:52+08:00
