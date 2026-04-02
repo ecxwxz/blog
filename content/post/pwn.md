@@ -1,6 +1,6 @@
 ---
 title: pwn学习
-# description: 试试学学pwn
+description: 试试学学pwn，不知道能不能学下去
 
 date: 2026-04-01T20:12:52+08:00
 lastmod: 2026-04-01T20:15:52+08:00
