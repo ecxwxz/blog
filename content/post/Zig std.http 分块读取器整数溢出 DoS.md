@@ -2,7 +2,7 @@
 title: Zig std.http 分块读取器整数溢出 DoS
 description: Zig std.http 分块读取器整数溢出漏洞分析
 
-date: 2026-07-01T20:12:52+08:00
+date: 2026-07-20T20:12:52+08:00
 lastmod: 2026-08-23T20:15:52+08:00
 ---
 # Zig std.http 分块读取器整数溢出 DoS

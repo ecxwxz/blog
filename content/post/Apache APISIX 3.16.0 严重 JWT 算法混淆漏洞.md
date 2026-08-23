@@ -2,7 +2,7 @@
 title: Apache APISIX 3.16.0 严重 JWT 算法混淆漏洞
 description: Apache APISIX 3.16.0 JWT 算法混淆漏洞分析
 
-date: 2026-06-19T20:12:52+08:00
+date: 2026-08-19T20:12:52+08:00
 lastmod: 2026-08-23T20:15:52+08:00
 ---
 # Apache APISIX 3.16.0 严重 JWT 算法混淆漏洞
