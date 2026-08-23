@@ -293,5 +293,3 @@ uid=10001(fastjson) gid=999(fastjson) groups=999(fastjson)
 ---
 
 ps:这个漏洞有意思的地方是 AutoType 已经关闭了，但是 Fastjson 为了判断 `@JSONType` 还是会先去读取传入类型对应的 class。只要应用自己的 ClassLoader 把这个读取动作扩展成 HTTP，类型判断就变成了 SSRF、远程字节码加载，最后在静态代码块里完成 RCE。
-
-仅限授权安全测试使用。
